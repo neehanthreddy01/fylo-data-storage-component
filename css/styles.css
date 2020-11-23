@@ -151,7 +151,7 @@ footer a {
     color: hsl(243, 100%, 93%);
 }
 
-@media (max-width: 675px) {
+@media (max-width: 475px) {
     body {
         background-image: url(../images/bg-mobile.png);
         height: 100%;
